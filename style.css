@@ -43,3 +43,50 @@ body{
   font-weight: 900;
   text-align: center;
 }
+/* 65% offer section */
+.second-section-container{
+  width: 802.9px;
+  height: 806px;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+  margin-top: 90px;
+}
+.second-section-contant{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.second-section-contant h1{
+  color: rgb(255, 0, 0);
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 40px;
+
+}
+.second-section-contant p{
+  color: rgb(255, 0, 0);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.second-section-contant h3{
+  color: rgb(7, 2, 17);
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.second-section-img{
+  width: 802.9px;
+  height: 500px;
+}
+.second-section-img img{
+  width: 100%;
+  height: 100%;
+}
